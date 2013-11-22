@@ -1,0 +1,17 @@
+{
+  "uuid": "f923d833-d2ce-4ca8-ae43-31e55a09d3d3",
+  "shortName": "bt-bug",
+  "longName": "bt-bug",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
